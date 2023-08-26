@@ -26,12 +26,10 @@ Bar graphs showed a visual comparison of how many conservation statuses are prev
 
 ### Conclusion
 The main questions/goals of the project were reached, with the data showing that conservation status is not evenly distributed among species groups. Birds have the most conservation statuses as a total, with vascular plants and mammals having the next two highest counts.
-When comparing the percentage of species with conservation status, vs the total population percentage, the data tells a different story. These three species groups also have the highest percentage that have a conservation status, but as it relates to the total population, birds and mammals have a much higher rate of conservation status. Refer to the graph below to see how the percentages differ. 
+When comparing the percentage of species with conservation status, vs the total population percentage, the data tells a different story. These three species groups also have the highest percentage that have a conservation status, but as it relates to the total population, birds and mammals have a much higher rate of conservation status.
+
 Although the questions were answered, possible improvements or further questions that could be answered in another review:
 
    * Which kinds of species are most prevalent in each park?
    * How does the conservation status vary between the parks?
    * Is it possible to predict if a species will become endangered, or a species of concern?
-
-
-![Conservation vs Total Population Percent Comparison](https://github.com/Dejanraic/Biodiversity-USA-National-Parks-Analysis/assets/121209357/f95ec18d-733b-4cac-a46d-d74d18f5b867)
