@@ -1,6 +1,8 @@
 # Biodiversity-Project
 This project is part of my data science portfolio and was created to showcase some of the skills I have learned since I started my journey into programming and data science!
 
+Please refer to the .ipynb file for the project code.
+
 ### Introduction
 The purpose of this project is to analyze Bioversity across parks in the United States. Specifically, conservation status across parks and species will be analyzed to determine what factors affect conservation status. Most are familiar with the term 'endangered' as a conservation status, but there are also 'species of concern', 'threatened', and 'in recovery'. This project will look into how these conservation statuses are distributed among species and parks. 
 
